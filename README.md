@@ -1,5 +1,5 @@
 - Hi, I’m Mahdi Karami.
-- I’m currently a senior machine learning researcher at Noah’s Ark Lab, Huawei.
+- I’m a senior machine learning researcher specializing in  generative models.
 - I’m interested in machine learning and artificial intelligence in general. 
 - 📫 karami1 AT ualberta DOT ca
 
